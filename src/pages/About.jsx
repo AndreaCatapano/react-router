@@ -5,3 +5,5 @@ const About = () => {
         <div>PAGINA ABOUT</div>
     )
 }
+
+export default About;

@@ -5,3 +5,5 @@ const Home = () => {
         <div>PAGINA HOME</div>
     )
 }
+
+export default Home;
